@@ -52,7 +52,7 @@ public class CSCI271_Question2_LexiTaylor {
         }
 
         int firstCount;
-        if (s.charAt(0) == c) { //takes first character of string
+        if (s.charAt(0) == c) { //Recursive case: takes first character of string
             firstCount = 1;
         } else {
             firstCount = 0;
