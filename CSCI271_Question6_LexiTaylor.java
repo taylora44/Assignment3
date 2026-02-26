@@ -88,3 +88,4 @@ public class CSCI271_Question6_LexiTaylor {
         in.close();
     }
 }
+// run time: T(n) = n × Θ(1) = Θ(n)
